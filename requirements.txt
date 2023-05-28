@@ -1,0 +1,35 @@
+atomicwrites
+attrs
+certifi
+click
+colorama
+dnspython
+Flask
+Flask-Cors
+gunicorn
+importlib-metadata
+iniconfig
+itsdangerous
+Jinja2
+joblib
+MarkupSafe
+numpy
+packaging
+pandas
+pluggy
+py
+pymongo
+pyparsing
+pytest
+python-dateutil
+pytz
+scikit-learn== 0.24.1
+scipy
+six
+threadpoolctl
+tomli
+typing_extensions
+Werkzeug
+wincertstore
+zipp
+#-e .

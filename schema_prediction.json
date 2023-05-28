@@ -1,0 +1,15 @@
+{
+	"NumberofColumns" : 10,
+	"ColName": {
+		"Item_Code":"object",
+		"Outlet_Code":"object",
+		"Item_Identifier":"object",
+		"Item_Fat_Content":"object",
+		"Item_Visibility":"float64",
+		"Item_MRP":"float64",
+		"Outlet_Size":"object",
+		"Outlet_Location_Type":"object",
+		"Outlet_Type":"object",
+		"Outlet_Age":"int64"
+	}
+}
