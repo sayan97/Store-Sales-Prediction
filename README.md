@@ -14,5 +14,8 @@ Build a web application solution that should able to predict the sales of the di
 ## Documents
 https://drive.google.com/drive/u/0/folders/1Y7d0WdXPZSB5cmrMcRGxQY9lHO0KRt7J
 
+## Azure WebApp Deployment 
+https://storesalesprediction.azurewebsites.net/
+
 ## Application UI 
 ![image](https://github.com/sayan97/Store-Sales-prediction/assets/59334180/4b6d1047-e2f0-49af-a9a5-28a616a8c4c4)
