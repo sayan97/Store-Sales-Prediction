@@ -14,7 +14,7 @@ Build a web application solution that should able to predict the sales of the di
 ## Documents
 https://drive.google.com/drive/u/0/folders/1Y7d0WdXPZSB5cmrMcRGxQY9lHO0KRt7J
 
-## AWS EC2 WebApp Deployment 
+## AWS Deployment 
 http://ec2-16-170-254-131.eu-north-1.compute.amazonaws.com:8000/
 
 ## Application UI 
